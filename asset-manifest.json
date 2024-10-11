@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-graph/static/css/main.228997e7.css",
+    "main.js": "/expense-graph/static/js/main.2d6f6672.js",
+    "index.html": "/expense-graph/index.html",
+    "main.228997e7.css.map": "/expense-graph/static/css/main.228997e7.css.map",
+    "main.2d6f6672.js.map": "/expense-graph/static/js/main.2d6f6672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228997e7.css",
+    "static/js/main.2d6f6672.js"
+  ]
+}
